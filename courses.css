@@ -138,11 +138,11 @@ li a:hover{
     padding: 5%;
 }
 .hsoft{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bolder;
 }
 .psoft{
-    font-size: 20px;
+    font-size: 15px;
 }
 .softchild{
     width: 95%;
@@ -215,7 +215,7 @@ li a:hover{
     margin-left: 10%;
 }
 .ictchild div{
-    width: 31.33%;
+    width: 48%;
 }
 .ictchild div h1{
     font-size: 30px !important;
@@ -241,7 +241,7 @@ li a:hover{
     padding: 5%;
 }
 .basichild{
-    width: 95%;
+    width: 90%;
     display: flex;
     margin: auto;
     justify-content: center;
